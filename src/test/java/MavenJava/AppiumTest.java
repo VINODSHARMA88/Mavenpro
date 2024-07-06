@@ -11,5 +11,12 @@ public class AppiumTest {
 		
 		System.out.println("Appium Test");		
 	}
+@Test
+
+public void seleniuma()
+{
+	
+	System.out.println("selenium a Test");		
+}
 
 }
